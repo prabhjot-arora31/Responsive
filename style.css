@@ -1,3 +1,6 @@
 #button1 {
   background-image: linear-gradient(rgb(230, 26, 28), rgb(214, 32, 34));
 }
+.container div h1 a:hover {
+  color: red;
+}
